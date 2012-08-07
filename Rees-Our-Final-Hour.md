@@ -51,3 +51,24 @@ cites David Brin, *The Transparent Society*
 "Of course, the extrapolation is based on assumptions about social trends. If European countries became genuinely anxious about falling population, governments could readily introduce measures to stimulate fertility. Contrariwise, epidemics spreading with megacities could cause catastrophic declines of the kind already projected for parts of Africa, and by 2050 such predictions could be radically changed by technical advances in robotics and medicine as drastic as those that techno-enthusiasts envisage.
 "The most benign outcome, if we could indeed survive the next century without catastrophic reversals, would be a world with a population lower than at present (and far below its projected peak around 2050). [105]
 "A new hazard that must be folded into these projections, and perhaps a portent of others, is the AIDS epidemic. This didn't catch hold in the human population until the 1980s, and it still hasn't reached its peak. Almost ten percent of South Africa's forty-two million people are believed to be HIV positive: AIDS is predicted to cause seven million deaths by 2010 in that country alone, wiping out much of the most productive age group, cutting the life expectancy of both men and women by as much as twenty years, and leaving millions of traumatised orphans among the younger generation. The burgeoning AIDS pandemic will devastate Africa; millions of cases are projected in Russia; the total number infected are rising fast in China and India, where fatalities from AIDS may exceed African levels within a decade."
+
+Long sections on the risks inherent in scientific experimentation, especially in physics doing various sorts of high energy experiments--colliders, etc. Rather unilluminating: shouldn't curtail science, but should also be clear on the risks. Short discuss of "Doomsday argument" in philosophy. Also unilluminating.
+
+142:  "Twentieth-century advances in understanding atoms, life, and the cosmos rank as humankind's greatest collective intellectual achievement."
+
+149-50: "(The film, *The Terminator*, in which a son sends his father back in time to save (and inseminate) his mother, wonderfully combines the insights of the greatest Austrian-American mind, Gödel, with the talents of the greatest Austrian-American body, Arnold Schwarzenegeger.)"
+
+Unilluminating section life outside the solar system. If there is no other intelligent life, than human life (!) is of cosmic significance; if there is other intelligent life, than human life is not of cosmic significance. The nature of this significance (either way) isn't particularly clear. Just because unique, this does not mean that the universe (=cosmic) suffers from the lack of it.
+
+170: "Is it worth taking precautions to ensure that whatever may happen, something survives of humanity? Most of us care about the future, not just because of a personal concern with children and grandchildren, but because all our efforts would be devalued if they were not part of a continuing process, if they did not have consequences that resonated into the far future."
+
+Seems to suggest that the essence of humanity is narcissism. He might not be wrong, but this is clearly not what he means.
+
+170:  "It would be absurd to claim that emigration into space is an answer to the population problem, or that more than a tiny fraction of those on Earth will themselves ever leave it. If some disaster reduced humanity to a far lower population, living in primitive conditions in a devastated wasteland, the survivors would still find Earth's environment more hospitable than that of any other planet. Nonetheless, even a few pioneering groups, living independently of Earth, would offer a safeguard against the worst possible disaster--the foreclosure of intelligent life's future through the extinction of all humankind."
+
+183:  "The first aquatic creatures crawled onto dry land in the Silurian era, more than three hundred million years ago. They may have been unprepossessing brutes, but had they been clobbered, the evolution of land-based fauna would have been jeopardised. Likewise, the post-human potential is so immense that not even the most misanthropic amongst us would countenance its being foreclosed by human actions."
+
+Not even!
+
+
+
