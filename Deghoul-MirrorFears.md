@@ -24,3 +24,12 @@ Degoul, Franck. "'We are the mirror of your fears': Haitian Identity and Zombifi
 
 29-30:  "Americans fear zombification, express it in all sorts of mediums, and are right to perceive the object of their fear in this way: zombification is precisely that which escapes them, and which simultaneously constitutes Haiti's mysterious power amid the neocolonial effort by which the North American hegemony had attempted to establish itself."
 
+30:  There is tension, along these lines, between Haiti and the Dominican Republic and Haiti and the United States, both seen as actual or potential invading forces.
+
+31:  "Thus it is inadvisable to neglect this major dimension of the problem, concerning Haiti's position among surrounding fields of power--be they political, economic, or geopolitical. Set between the Dominican Republic (rich, touristy, and supported by the United States) and Cuba (with its Castro supporters, and so near the American superpower), Haiti (one of the poorest countries in the world, and the poorest in the Caribbean) finds itself at the very center of a sort of triangulation that explains a number of facts of recent postcolonial history."
+
+32:  Haitians project back the zombification against invaders as a weapon: they will transform invaders into zombies, they will use magical powders.
+
+36-7:  "it doesn't escape anyone that the 'whites,' the foreigners, and especially the Americans, have been interested in the popular Haitian religion and its magical-religious aspects and elements of sorcery for a very long time; they come to this--to understand, to know, to dominate--by means of a strategic 'intelligence' or by bribery. Whatever its exact nature, their marked interest in this field of expression, which has become symbolic of the sociocultural Haitian, masks an undeniable desire to seize hold of what which the Haitian national identity is founded on, and which gives it its strength and power."
+
+37:  "Vaudou, and zombification as a result, is strictly of a Haitian nature, but it is also 'Negro.'"
