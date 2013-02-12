@@ -39,3 +39,20 @@ Whitehead, Colson. *Zone One, A Novel*. Doubleday, 2011.
 
 139:  "It was not hard to see the inhabitants of the camps devolve into demented relics too damaged to do anything more than dwindle into extinction in a generation or two."
 
+179:  "He told himself: Hope is a gateway drug, don't do it."
+
+180-1:  "As before, home was a beloved barricade. When school, work, the many-headed beast of strangers and villains comprising the world threatened to destroy, home remained, family remained, and the locks would hold, the lullabies would ward off all bogeymen. He was trapped in this house and he couldn't think of where else he'd rather be."
+
+193:  "the refuge had done what all refuges do eventually: It failed."
+
+196:  "It was not so glamorous to spend two days doubled over, shitting your guts out because you'd gambled on the expired bottle of kiwi juice."
+
+197:  "The townspeople, of course, were the real monsters. It was the business of the plague to reveal our family members, friends, and neighbors as the creatures they had always been."
+
+214:  "If the beings they destroyed were their own creations, and not the degraded remnants of the people described on the things' driver's licenses, so be it. We never see other people anyway, only the monsters we make of them."
+
+215:  "They were human beings, after all, and full of things that needed to be put down."
+
+221:  "When the wall fell, it fell quickly, as if it had been waiting for this moment, as it it had been created for the very instant of its failure. Barricades collapsed with haste once exposed for the riddled and rotten things they had always been. Beneath that facade of stability they were as ethereal as the society that created them. All the feverish subroutines of his survival programs booted up, for the first time in so long, and he located the flaw the instant before it expressed itself: there."
+
+231:  "If they could bring back paperwork, Mark Spitz thought, they could certainly reanimate prejudice, parking tickets, and reruns."
