@@ -3,11 +3,9 @@ Whitehead, Colson. *Zone One, A Novel*. Doubleday, 2011.
 
 8:  "Hard to believe that reconstruction had progressed so far that clock-watching had returned, the slacker's code, the concept weekend."
 
-30:  PASD--Post-Apocalyptic Survivor Dysfunction
+34:  "2.4 stragglers per floor in this type of structure and .05 there. Numbers permitted Buffalo to extrapolate the whole city from Zone One, speculate about how long it will take *X* amount of three-men sweeper units to clear the island zone by zone, north to south and river to river. Then on to other cities. There was no other entity like New York City, but the silent downtowns bided across the country with their micropopulations, acolytes of the principles of the grid. The truths of the grid's rectilinear logic, its consequences, of how people moved and lived inside boundaries, had already been applied to cities across the country through the decades, anywhere human activity and desire needed to be tamed and made compliant. Gangs of high-rises in Southwest municipalities flush with internet money, sterile pedestrian malls in Midwest cities of a certain size, run-down waterfront districts of fabricated historical import that had been tarted up into tourist mills. Sure, there was the problem of scale, but Manhattan was the biggest version of everywhere."
 
-34:  urban geography
-
-40:  prayer/religion
+40:  "Religion had been a taboo subject in former times, but now impromptu proselytizing sessions broke out in besieged department-store stockrooms, in the attics of crumbling Midwest Victorians, as the holed-up survivors swapped deities and afterlife hypotheses. It passed the time until morning and the resumption of the gauntlet."
 
 42:  "Provisional governments were really big these days, an international fad in the grand old style."
 
