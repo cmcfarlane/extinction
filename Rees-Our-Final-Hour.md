@@ -2,7 +2,7 @@ Rees, Martin. *Our Final Hour: A Scientist's Warning: How Terror, Error, and Env
 
 8:  "I think the odds are no better than fifty-fifty that our present civilization on Earth will survive to the end of the present century. Our choices and actions could ensure the perpetual future of life (not just on Earth, but perhaps far beyond it, too). Or in contrast, through malign intent, or through misadventure, twenty-first century technology could jeopardise life's potential, foreclosing its human and posthuman future. What happens here on Earth, in this century, could conceivably make the difference between a near eternity filled with ever more complex and subtle forms of life and one filled with nothing but base matter."
 
-as is typical of the genre, Rees confuses life as such with human life. Furthermore, Rees does not say why a future with (human) life is preferable to a future without (human) life. The entire genre of "existential risk" begs the question.
+> as is typical of the genre, Rees confuses life as such with human life. Furthermore, Rees does not say why a future with (human) life is preferable to a future without (human) life. The entire genre of "existential risk" begs the question.
 
 13:  "Scientists are often blind to the ramifications of even their own discoveries."
 
@@ -10,7 +10,7 @@ as is typical of the genre, Rees confuses life as such with human life. Furtherm
 
 17:  "Nanotechnology could extend Moore's law for up to thirty further years; by that time, computers would match the processing power of a human brain. And all human beings could by then be bathed in a cyberspace that allows instant communication with one another, not just in speech and vision but via elaborate virtual reality."
 
-this assumes the resolution of massive social, political and economic problems which seems rather unlikely
+> this assumes the resolution of massive social, political and economic problems which seems rather unlikely
 	
 19:  "Belief in the 'singularity' relates to mainstream futurology rather as the millenarian hope of 'Rapture'--being physically plucked up into the Heavens at an imminent Last Day--relates to mainstream Christianity."
 
@@ -37,7 +37,7 @@ this assumes the resolution of massive social, political and economic problems w
 66:  "One palliative would be acceptance of a complete loss of privacy, with the development of novel techniques to keep tabs on us all. Universal surveillance is becoming technically feasible, and could plainly be a safeguard against unwelcome clandestine activities. Techniques such as surgically implanted transmitters are already being serious mooted to (for instance) monitor criminals on parole. Subjecting all citizens to such treatment would be deeply unpalatable to most of us, but if the threats escalated, we might become resigned to the need for such measures, and the next generation might find it less repugnant.
 "Orwellian surveillance, in traditional totalitarian style, would be plainly acceptable; unless encryption techniques kept pace, it would become ever more intrusive with each technical advance. But suppose the surveillance was two-way, and each of us could 'spy' not only on the government but on everyone else."
 	
-cites David Brin, *The Transparent Society*
+> cites David Brin, *The Transparent Society*
 	
 77-8:  "Perhaps only a minority react in this disproportionate way against these mouse and rat experiments. However, some procedures that may soon be possible, could trigger such widespread revulsion that there will surely be pressure to ban them: for instance, the 'design' of insentient animals who (it would then be argued) would have the moral status of vegetables and so could be treated appallingly with no ethical compunctions at all. (The food industry would then be relieved of pressure to abandon its cruelly intensive treatment of factory-farmed animals). Brainless hominids whose organs could be harvested as spare parts would seem, ethically, even more problematic. On the other hand, transplanting organs from pigs or other animals into humans should raise no more ethical concerns than meat-eating, though this technique (xenotransplantation) will perhaps be banned--irrespective of ethical judgments--because of the risks that new animal diseases could be introduced into the human population."
 
@@ -52,23 +52,23 @@ cites David Brin, *The Transparent Society*
 "The most benign outcome, if we could indeed survive the next century without catastrophic reversals, would be a world with a population lower than at present (and far below its projected peak around 2050). [105]
 "A new hazard that must be folded into these projections, and perhaps a portent of others, is the AIDS epidemic. This didn't catch hold in the human population until the 1980s, and it still hasn't reached its peak. Almost ten percent of South Africa's forty-two million people are believed to be HIV positive: AIDS is predicted to cause seven million deaths by 2010 in that country alone, wiping out much of the most productive age group, cutting the life expectancy of both men and women by as much as twenty years, and leaving millions of traumatised orphans among the younger generation. The burgeoning AIDS pandemic will devastate Africa; millions of cases are projected in Russia; the total number infected are rising fast in China and India, where fatalities from AIDS may exceed African levels within a decade."
 
-Long sections on the risks inherent in scientific experimentation, especially in physics doing various sorts of high energy experiments--colliders, etc. Rather unilluminating: shouldn't curtail science, but should also be clear on the risks. Short discuss of "Doomsday argument" in philosophy. Also unilluminating.
+> Long sections on the risks inherent in scientific experimentation, especially in physics doing various sorts of high energy experiments--colliders, etc. Rather unilluminating: shouldn't curtail science, but should also be clear on the risks. Short discuss of "Doomsday argument" in philosophy. Also unilluminating.
 
 142:  "Twentieth-century advances in understanding atoms, life, and the cosmos rank as humankind's greatest collective intellectual achievement."
 
 149-50: "(The film, *The Terminator*, in which a son sends his father back in time to save (and inseminate) his mother, wonderfully combines the insights of the greatest Austrian-American mind, Gödel, with the talents of the greatest Austrian-American body, Arnold Schwarzenegeger.)"
 
-Unilluminating section life outside the solar system. If there is no other intelligent life, than human life (!) is of cosmic significance; if there is other intelligent life, than human life is not of cosmic significance. The nature of this significance (either way) isn't particularly clear. Just because unique, this does not mean that the universe (=cosmic) suffers from the lack of it.
+> Unilluminating section life outside the solar system. If there is no other intelligent life, than human life (!) is of cosmic significance; if there is other intelligent life, than human life is not of cosmic significance. The nature of this significance (either way) isn't particularly clear. Just because unique, this does not mean that the universe (=cosmic) suffers from the lack of it.
 
 170: "Is it worth taking precautions to ensure that whatever may happen, something survives of humanity? Most of us care about the future, not just because of a personal concern with children and grandchildren, but because all our efforts would be devalued if they were not part of a continuing process, if they did not have consequences that resonated into the far future."
 
-Seems to suggest that the essence of humanity is narcissism. He might not be wrong, but this is clearly not what he means.
+> Seems to suggest that the essence of humanity is narcissism. He might not be wrong, but this is clearly not what he means.
 
 170:  "It would be absurd to claim that emigration into space is an answer to the population problem, or that more than a tiny fraction of those on Earth will themselves ever leave it. If some disaster reduced humanity to a far lower population, living in primitive conditions in a devastated wasteland, the survivors would still find Earth's environment more hospitable than that of any other planet. Nonetheless, even a few pioneering groups, living independently of Earth, would offer a safeguard against the worst possible disaster--the foreclosure of intelligent life's future through the extinction of all humankind."
 
 183:  "The first aquatic creatures crawled onto dry land in the Silurian era, more than three hundred million years ago. They may have been unprepossessing brutes, but had they been clobbered, the evolution of land-based fauna would have been jeopardised. Likewise, the post-human potential is so immense that not even the most misanthropic amongst us would countenance its being foreclosed by human actions."
 
-Not even!
+> Not even!
 
 
 
